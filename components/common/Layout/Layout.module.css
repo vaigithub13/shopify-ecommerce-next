@@ -1,0 +1,6 @@
+.root {
+  @apply bg-gray-50 h-full mx-auto;
+  max-width: 2460px;
+  /* background-color: var(--green); */
+  /* background-color: theme("colors.green"); */
+}
